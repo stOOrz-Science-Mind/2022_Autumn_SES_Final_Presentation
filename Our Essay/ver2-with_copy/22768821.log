@@ -703,57 +703,84 @@ Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 \c@ALC@depth=\count359
 \ALC@tlm=\skip136
 \algorithmicindent=\skip137
+) (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/latex/wallpaper\wallpaper.sty
+Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
+ (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count360
+\calc@Bcount=\count361
+\calc@Adimen=\dimen278
+\calc@Bdimen=\dimen279
+\calc@Askip=\skip138
+\calc@Bskip=\skip139
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count362
+\calc@Cskip=\skip140
+) (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen280
+\ESO@tempdimb=\dimen281
+)
+\wpXoffset=\skip141
+\wpYoffset=\skip142
+\tileXoffset=\skip143
+\tileYoffset=\skip144
+\tilewidth=\skip145
+\tileheight=\skip146
+\tileX=\skip147
+\tileY=\skip148
 ) (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
  (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count360
+\c@float@type=\count363
 \float@exts=\toks45
 \float@box=\box73
 \@float@everytoks=\toks46
 \@floatcapt=\box74
 )
 \@float@every@algorithm=\toks47
-\c@algorithm=\count361
+\c@algorithm=\count364
 ) (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-\c@thm=\count362
-\c@theorem=\count363
-\c@definition=\count364
+\c@thm=\count365
+\c@theorem=\count366
+\c@definition=\count367
  (22768821.aux)
 \openout1 = `22768821.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
  (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count365
-\scratchdimen=\dimen278
+\scratchcounter=\count368
+\scratchdimen=\dimen282
 \scratchbox=\box75
-\nofMPsegments=\count366
-\nofMParguments=\count367
+\nofMPsegments=\count369
+\nofMParguments=\count370
 \everyMPshowfont=\toks48
-\MPscratchCnt=\count368
-\MPscratchDim=\dimen279
-\MPnumerator=\count369
-\makeMPintoPDFobject=\count370
+\MPscratchCnt=\count371
+\MPscratchDim=\dimen283
+\MPnumerator=\count372
+\makeMPintoPDFobject=\count373
 \everyMPtoPDFconversion=\toks49
 ) (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -761,8 +788,8 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count371
-Package hyperref Info: Link coloring ON on input line 104.
+\c@lstlisting=\count374
+Package hyperref Info: Link coloring ON on input line 105.
  (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
@@ -770,11 +797,12 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count372
+\c@section@level=\count375
 )
-LaTeX Info: Redefining \ref on input line 104.
-LaTeX Info: Redefining \pageref on input line 104.
-LaTeX Info: Redefining \nameref on input line 104.
+LaTeX Info: Redefining \ref on input line 105.
+LaTeX Info: Redefining \pageref on input line 105.
+LaTeX Info: Redefining \nameref on input line 105.
+ (22768821.out) (22768821.out)
 \@outlinefile=\write4
 \openout4 = `22768821.out'.
 
@@ -815,34 +843,28 @@ LaTeX Info: Redefining \nameref on input line 104.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 104.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 106.
+(lastpage)             ! on input line 105.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 107.
 (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 106.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 107.
  (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-h:/stOOrz-Mathematical-Modelling-Group/SES_Final_Presentation/Our Essay/ver2-with_copy/22768821.tex:106: Undefined control sequence.
-<recently read> \ThisCenterWallPaper 
-                                     
-l.106     \ThisCenterWallPaper
-                              {1}{./cover/cover-stoorz.pdf}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+<./cover/cover-stoorz.pdf, id=206, 1517.67pt x 2146.4189pt>
+File: ./cover/cover-stoorz.pdf Graphic file (type pdf)
+<use ./cover/cover-stoorz.pdf>
+Package pdftex.def Info: ./cover/cover-stoorz.pdf  used on input line 108.
+(pdftex.def)             Requested size: 597.51627pt x 845.05867pt.
+ [1
 
-[1
-
-{C:/Users/Allan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for T1+qpl on input line 109.
+{C:/Users/Allan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./cover/cover-stoorz.pdf>]
+LaTeX Font Info:    Trying to load font information for T1+qpl on input line 110.
  (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\t1qpl.fd
 File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
 )
-Underfull \hbox (badness 10000) in paragraph at lines 119--121
+Underfull \hbox (badness 10000) in paragraph at lines 120--122
 
  []
 
@@ -853,7 +875,7 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-78.35541pt}.
 
-[2]
+[2] (22768821.toc)
 \tf@toc=\write5
 \openout5 = `22768821.toc'.
 
@@ -861,443 +883,424 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.159     \newpage
+l.160     \newpage
                    [1
 
 
 ]
-<chart.jpg, id=49, 7280.19875pt x 1582.91376pt>
+<chart.jpg, id=612, 7280.19875pt x 1582.91376pt>
 File: chart.jpg Graphic file (type jpg)
 <use chart.jpg>
-Package pdftex.def Info: chart.jpg  used on input line 174.
+Package pdftex.def Info: chart.jpg  used on input line 175.
 (pdftex.def)             Requested size: 398.33858pt x 86.58954pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.203 		\itembf{Passengers never go backward.}
+l.204 		\itembf{Passengers never go backward.}
                                                [1 <./chart.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.231 ...0}\,\left(\mathrm{m\cdot s^{-1}}\right)\]
+l.232 ...0}\,\left(\mathrm{m\cdot s^{-1}}\right)\]
                                                    [2]
-<cell_visualization.jpg, id=79, 1336.995pt x 434.62375pt>
+<cell_visualization.jpg, id=633, 1336.995pt x 434.62375pt>
 File: cell_visualization.jpg Graphic file (type jpg)
 <use cell_visualization.jpg>
-Package pdftex.def Info: cell_visualization.jpg  used on input line 297.
+Package pdftex.def Info: cell_visualization.jpg  used on input line 298.
 (pdftex.def)             Requested size: 398.33858pt x 129.48619pt.
  [3]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 303.
+(hyperref)                removing `math shift' on input line 304.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\to' on input line 303.
+(hyperref)                removing `\to' on input line 304.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 303.
-
-
-LaTeX Warning: Citation `greenshields' on page 4 undefined on input line 309.
+(hyperref)                removing `subscript' on input line 304.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 316.
+(hyperref)                removing `math shift' on input line 317.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 316.
+(hyperref)                removing `subscript' on input line 317.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\to' on input line 316.
+(hyperref)                removing `\to' on input line 317.
 
-<effective factor.jpg, id=90, 463.50665pt x 153.64903pt>
+<effective factor.jpg, id=641, 463.50665pt x 153.64903pt>
 File: effective factor.jpg Graphic file (type jpg)
 <use effective factor.jpg>
-Package pdftex.def Info: effective factor.jpg  used on input line 322.
+Package pdftex.def Info: effective factor.jpg  used on input line 323.
 (pdftex.def)             Requested size: 312.9803pt x 103.75081pt.
 [4 <./cell_visualization.jpg> <./effective factor.jpg>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 333.
+(hyperref)                removing `math shift' on input line 334.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\to' on input line 333.
+(hyperref)                removing `\to' on input line 334.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 333.
+(hyperref)                removing `math shift' on input line 334.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 342.
+(hyperref)                removing `math shift' on input line 343.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\to' on input line 342.
+(hyperref)                removing `\to' on input line 343.
 
 [5]
-<offering a seat.jpg, id=107, 312.49246pt x 171.94237pt>
+<offering a seat.jpg, id=654, 312.49246pt x 171.94237pt>
 File: offering a seat.jpg Graphic file (type jpg)
 <use offering a seat.jpg>
-Package pdftex.def Info: offering a seat.jpg  used on input line 365.
+Package pdftex.def Info: offering a seat.jpg  used on input line 366.
 (pdftex.def)             Requested size: 284.52756pt x 156.56487pt.
  [6 <./offering a seat.jpg>]
-<discrete optimization.jpg, id=113, 147.55125pt x 106.29712pt>
+<discrete optimization.jpg, id=659, 147.55125pt x 106.29712pt>
 File: discrete optimization.jpg Graphic file (type jpg)
 <use discrete optimization.jpg>
-Package pdftex.def Info: discrete optimization.jpg  used on input line 423.
+Package pdftex.def Info: discrete optimization.jpg  used on input line 424.
 (pdftex.def)             Requested size: 197.50374pt x 142.26378pt.
-<steffen1.jpg, id=114, 294.80138pt x 331.53862pt>
+<steffen1.jpg, id=660, 294.80138pt x 331.53862pt>
 File: steffen1.jpg Graphic file (type jpg)
 <use steffen1.jpg>
-Package pdftex.def Info: steffen1.jpg  used on input line 432.
+Package pdftex.def Info: steffen1.jpg  used on input line 433.
 (pdftex.def)             Requested size: 101.19827pt x 113.81102pt.
-<steffen2.jpg, id=115, 294.80138pt x 331.53862pt>
+<steffen2.jpg, id=661, 294.80138pt x 331.53862pt>
 File: steffen2.jpg Graphic file (type jpg)
 <use steffen2.jpg>
-Package pdftex.def Info: steffen2.jpg  used on input line 433.
+Package pdftex.def Info: steffen2.jpg  used on input line 434.
 (pdftex.def)             Requested size: 101.19827pt x 113.81102pt.
  [7 <./discrete optimization.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 440--445
+Underfull \hbox (badness 10000) in paragraph at lines 441--446
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--445
+Underfull \hbox (badness 10000) in paragraph at lines 441--446
 
  []
 
-<display of Delta tau.jpg, id=123, 1079.53313pt x 235.2539pt>
+<display of Delta tau.jpg, id=666, 1079.53313pt x 235.2539pt>
 File: display of Delta tau.jpg Graphic file (type jpg)
 <use display of Delta tau.jpg>
-Package pdftex.def Info: display of Delta tau.jpg  used on input line 454.
+Package pdftex.def Info: display of Delta tau.jpg  used on input line 455.
 (pdftex.def)             Requested size: 398.33858pt x 86.80565pt.
 [8 <./steffen1.jpg> <./steffen2.jpg> <./display of Delta tau.jpg>]
-<disembarking.jpg, id=132, 1276.01718pt x 804.00375pt>
+<disembarking.jpg, id=674, 1276.01718pt x 804.00375pt>
 File: disembarking.jpg Graphic file (type jpg)
 <use disembarking.jpg>
-Package pdftex.def Info: disembarking.jpg  used on input line 469.
+Package pdftex.def Info: disembarking.jpg  used on input line 470.
 (pdftex.def)             Requested size: 426.79134pt x 268.91661pt.
  [9 <./disembarking.jpg>]
-<random satis.png, id=140, 1048.81837pt x 413.74574pt>
+<random satis.png, id=679, 1048.81837pt x 413.74574pt>
 File: random satis.png Graphic file (type png)
 <use random satis.png>
-Package pdftex.def Info: random satis.png  used on input line 509.
+Package pdftex.def Info: random satis.png  used on input line 510.
 (pdftex.def)             Requested size: 483.69684pt x 190.81146pt.
  [10 <./random satis.png>]
-<planerow1.jpg, id=153, 4501.81876pt x 4421.51875pt>
+<planerow1.jpg, id=689, 4501.81876pt x 4421.51875pt>
 File: planerow1.jpg Graphic file (type jpg)
 <use planerow1.jpg>
-Package pdftex.def Info: planerow1.jpg  used on input line 532.
+Package pdftex.def Info: planerow1.jpg  used on input line 533.
 (pdftex.def)             Requested size: 107.15973pt x 105.2751pt.
-<planerow2.jpg, id=154, 4501.81876pt x 4421.51875pt>
+<planerow2.jpg, id=690, 4501.81876pt x 4421.51875pt>
 File: planerow2.jpg Graphic file (type jpg)
 <use planerow2.jpg>
-Package pdftex.def Info: planerow2.jpg  used on input line 533.
+Package pdftex.def Info: planerow2.jpg  used on input line 534.
 (pdftex.def)             Requested size: 107.15973pt x 105.2751pt.
-<wdmd.jpg, id=155, 303.38344pt x 419.69296pt>
+<wdmd.jpg, id=691, 303.38344pt x 419.69296pt>
 File: wdmd.jpg Graphic file (type jpg)
 <use wdmd.jpg>
-Package pdftex.def Info: wdmd.jpg  used on input line 534.
+Package pdftex.def Info: wdmd.jpg  used on input line 535.
 (pdftex.def)             Requested size: 76.10028pt x 105.2751pt.
-<planerandom.jpg, id=156, 3930.685pt x 4420.515pt>
+<planerandom.jpg, id=692, 3930.685pt x 4420.515pt>
 File: planerandom.jpg Graphic file (type jpg)
 <use planerandom.jpg>
-Package pdftex.def Info: planerandom.jpg  used on input line 535.
+Package pdftex.def Info: planerandom.jpg  used on input line 536.
 (pdftex.def)             Requested size: 93.56465pt x 105.2751pt.
-
-
-LaTeX Warning: Citation `steffen' on page 11 undefined on input line 561.
-
-<stf_perfect.jpg, id=157, 3930.685pt x 4420.515pt>
+<stf_perfect.jpg, id=694, 3930.685pt x 4420.515pt>
 File: stf_perfect.jpg Graphic file (type jpg)
 <use stf_perfect.jpg>
-Package pdftex.def Info: stf_perfect.jpg  used on input line 566.
+Package pdftex.def Info: stf_perfect.jpg  used on input line 567.
 (pdftex.def)             Requested size: 113.837pt x 128.0374pt.
-<planeown.jpg, id=158, 294.80138pt x 331.53862pt>
+<planeown.jpg, id=695, 294.80138pt x 331.53862pt>
 File: planeown.jpg Graphic file (type jpg)
 <use planeown.jpg>
-Package pdftex.def Info: planeown.jpg  used on input line 567.
+Package pdftex.def Info: planeown.jpg  used on input line 568.
 (pdftex.def)             Requested size: 113.85199pt x 128.0374pt.
-<stf_subperfect.jpg, id=159, 3930.685pt x 4420.515pt>
+<stf_subperfect.jpg, id=696, 3930.685pt x 4420.515pt>
 File: stf_subperfect.jpg Graphic file (type jpg)
 <use stf_subperfect.jpg>
-Package pdftex.def Info: stf_subperfect.jpg  used on input line 568.
+Package pdftex.def Info: stf_subperfect.jpg  used on input line 569.
 (pdftex.def)             Requested size: 113.837pt x 128.0374pt.
-[11 <./planerow1.jpg> <./planerow2.jpg> <./wdmd.jpg> <./planerandom.jpg>]
-<speed graphs on various types.jpg, id=166, 1734.48pt x 1020.81375pt>
+ [11 <./planerow1.jpg> <./planerow2.jpg> <./wdmd.jpg> <./planerandom.jpg>]
+<speed graphs on various types.jpg, id=703, 1734.48pt x 1020.81375pt>
 File: speed graphs on various types.jpg Graphic file (type jpg)
 <use speed graphs on various types.jpg>
-Package pdftex.def Info: speed graphs on various types.jpg  used on input line 577.
+Package pdftex.def Info: speed graphs on various types.jpg  used on input line 578.
 (pdftex.def)             Requested size: 398.33858pt x 234.43954pt.
  [12 <./stf_perfect.jpg> <./planeown.jpg> <./stf_subperfect.jpg> <./speed graphs on various types.jpg>]
-<sigmoid non compliance.png, id=172, 597.49222pt x 576.7146pt>
+<sigmoid non compliance.png, id=708, 597.49222pt x 576.7146pt>
 File: sigmoid non compliance.png Graphic file (type png)
 <use sigmoid non compliance.png>
-Package pdftex.def Info: sigmoid non compliance.png  used on input line 610.
+Package pdftex.def Info: sigmoid non compliance.png  used on input line 611.
 (pdftex.def)             Requested size: 162.12735pt x 156.49014pt.
-<avetimesteps random fitted.jpg, id=173, 927.465pt x 572.1375pt>
+<avetimesteps random fitted.jpg, id=709, 927.465pt x 572.1375pt>
 File: avetimesteps random fitted.jpg Graphic file (type jpg)
 <use avetimesteps random fitted.jpg>
-Package pdftex.def Info: avetimesteps random fitted.jpg  used on input line 617.
+Package pdftex.def Info: avetimesteps random fitted.jpg  used on input line 618.
 (pdftex.def)             Requested size: 230.6203pt x 142.26378pt.
-<avetimesteps ftb fitted.jpg, id=174, 927.465pt x 572.1375pt>
+<avetimesteps ftb fitted.jpg, id=710, 927.465pt x 572.1375pt>
 File: avetimesteps ftb fitted.jpg Graphic file (type jpg)
 <use avetimesteps ftb fitted.jpg>
-Package pdftex.def Info: avetimesteps ftb fitted.jpg  used on input line 618.
+Package pdftex.def Info: avetimesteps ftb fitted.jpg  used on input line 619.
 (pdftex.def)             Requested size: 230.6203pt x 142.26378pt.
-<variance and timesteps btf.jpg, id=175, 938.50626pt x 572.1375pt>
+<variance and timesteps btf.jpg, id=711, 938.50626pt x 572.1375pt>
 File: variance and timesteps btf.jpg Graphic file (type jpg)
 <use variance and timesteps btf.jpg>
-Package pdftex.def Info: variance and timesteps btf.jpg  used on input line 619.
+Package pdftex.def Info: variance and timesteps btf.jpg  used on input line 620.
 (pdftex.def)             Requested size: 233.36578pt x 142.26378pt.
  [13 <./sigmoid non compliance.png> <./avetimesteps random fitted.jpg> <./avetimesteps ftb fitted.jpg>]
-<variance and timesteps random fitted.jpg, id=183, 927.465pt x 572.1375pt>
+<variance and timesteps random fitted.jpg, id=717, 927.465pt x 572.1375pt>
 File: variance and timesteps random fitted.jpg Graphic file (type jpg)
 <use variance and timesteps random fitted.jpg>
-Package pdftex.def Info: variance and timesteps random fitted.jpg  used on input line 628.
+Package pdftex.def Info: variance and timesteps random fitted.jpg  used on input line 629.
 (pdftex.def)             Requested size: 230.6203pt x 142.26378pt.
-<variance and timesteps ftb fitted.jpg, id=184, 927.465pt x 572.1375pt>
+<variance and timesteps ftb fitted.jpg, id=718, 927.465pt x 572.1375pt>
 File: variance and timesteps ftb fitted.jpg Graphic file (type jpg)
 <use variance and timesteps ftb fitted.jpg>
-Package pdftex.def Info: variance and timesteps ftb fitted.jpg  used on input line 629.
+Package pdftex.def Info: variance and timesteps ftb fitted.jpg  used on input line 630.
 (pdftex.def)             Requested size: 230.6203pt x 142.26378pt.
-<avetimesteps btf.jpg, id=185, 927.465pt x 572.1375pt>
+<avetimesteps btf.jpg, id=719, 927.465pt x 572.1375pt>
 File: avetimesteps btf.jpg Graphic file (type jpg)
 <use avetimesteps btf.jpg>
-Package pdftex.def Info: avetimesteps btf.jpg  used on input line 630.
+Package pdftex.def Info: avetimesteps btf.jpg  used on input line 631.
 (pdftex.def)             Requested size: 230.6203pt x 142.26378pt.
  [14 <./variance and timesteps btf.jpg> <./variance and timesteps random fitted.jpg> <./variance and timesteps ftb fitted.jpg> <./avetimesteps btf.jpg>]
-<changesq btf.jpg, id=191, 928.46875pt x 572.1375pt>
+<changesq btf.jpg, id=725, 928.46875pt x 572.1375pt>
 File: changesq btf.jpg Graphic file (type jpg)
 <use changesq btf.jpg>
-Package pdftex.def Info: changesq btf.jpg  used on input line 655.
+Package pdftex.def Info: changesq btf.jpg  used on input line 656.
 (pdftex.def)             Requested size: 230.86989pt x 142.26378pt.
-<changesq ftb.jpg, id=192, 927.465pt x 572.1375pt>
+<changesq ftb.jpg, id=726, 927.465pt x 572.1375pt>
 File: changesq ftb.jpg Graphic file (type jpg)
 <use changesq ftb.jpg>
-Package pdftex.def Info: changesq ftb.jpg  used on input line 656.
+Package pdftex.def Info: changesq ftb.jpg  used on input line 657.
 (pdftex.def)             Requested size: 230.6203pt x 142.26378pt.
-<reduce btf.jpg, id=193, 534.99875pt x 408.52625pt>
+<reduce btf.jpg, id=727, 534.99875pt x 408.52625pt>
 File: reduce btf.jpg Graphic file (type jpg)
 <use reduce btf.jpg>
-Package pdftex.def Info: reduce btf.jpg  used on input line 668.
+Package pdftex.def Info: reduce btf.jpg  used on input line 669.
 (pdftex.def)             Requested size: 149.03943pt x 113.81102pt.
-<reduce ftb.jpg, id=194, 534.99875pt x 408.52625pt>
+<reduce ftb.jpg, id=728, 534.99875pt x 408.52625pt>
 File: reduce ftb.jpg Graphic file (type jpg)
 <use reduce ftb.jpg>
-Package pdftex.def Info: reduce ftb.jpg  used on input line 669.
+Package pdftex.def Info: reduce ftb.jpg  used on input line 670.
 (pdftex.def)             Requested size: 149.03943pt x 113.81102pt.
-<reduce random.jpg, id=195, 534.99875pt x 408.52625pt>
+<reduce random.jpg, id=729, 534.99875pt x 408.52625pt>
 File: reduce random.jpg Graphic file (type jpg)
 <use reduce random.jpg>
-Package pdftex.def Info: reduce random.jpg  used on input line 670.
+Package pdftex.def Info: reduce random.jpg  used on input line 671.
 (pdftex.def)             Requested size: 149.03943pt x 113.81102pt.
  [15 <./changesq btf.jpg> <./changesq ftb.jpg> <./reduce btf.jpg> <./reduce ftb.jpg> <./reduce random.jpg>]
-<flyingwings.jpg, id=204, 1120.9378pt x 671.88516pt>
+<flyingwings.jpg, id=735, 1120.9378pt x 671.88516pt>
 File: flyingwings.jpg Graphic file (type jpg)
 <use flyingwings.jpg>
-Package pdftex.def Info: flyingwings.jpg  used on input line 718.
+Package pdftex.def Info: flyingwings.jpg  used on input line 719.
 (pdftex.def)             Requested size: 341.43306pt x 204.653pt.
  [16 <./flyingwings.jpg>]
-<deltad.jpg, id=216, 3490.03876pt x 2054.67625pt>
+<deltad.jpg, id=742, 3490.03876pt x 2054.67625pt>
 File: deltad.jpg Graphic file (type jpg)
 <use deltad.jpg>
-Package pdftex.def Info: deltad.jpg  used on input line 734.
+Package pdftex.def Info: deltad.jpg  used on input line 735.
 (pdftex.def)             Requested size: 284.52756pt x 167.48128pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 749--750
+Underfull \hbox (badness 10000) in paragraph at lines 750--751
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 749--750
+Underfull \hbox (badness 10000) in paragraph at lines 750--751
 
  []
 
-<fw scheme.jpg, id=217, 6717.095pt x 3462.9375pt>
+<fw scheme.jpg, id=743, 6717.095pt x 3462.9375pt>
 File: fw scheme.jpg Graphic file (type jpg)
 <use fw scheme.jpg>
-Package pdftex.def Info: fw scheme.jpg  used on input line 758.
+Package pdftex.def Info: fw scheme.jpg  used on input line 759.
 (pdftex.def)             Requested size: 220.67062pt x 113.81102pt.
 [17 <./deltad.jpg>]
-<ideal scheme for fw.jpg, id=223, 1120.185pt x 800.9925pt>
+<ideal scheme for fw.jpg, id=748, 1120.185pt x 800.9925pt>
 File: ideal scheme for fw.jpg Graphic file (type jpg)
 <use ideal scheme for fw.jpg>
-Package pdftex.def Info: ideal scheme for fw.jpg  used on input line 771.
+Package pdftex.def Info: ideal scheme for fw.jpg  used on input line 772.
 (pdftex.def)             Requested size: 398.33858pt x 284.8371pt.
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 777.
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 778.
  [18 <./fw scheme.jpg> <./ideal scheme for fw.jpg>]
-<whole.jpg, id=231, 3826.295pt x 1084.05pt>
+<whole.jpg, id=755, 3826.295pt x 1084.05pt>
 File: whole.jpg Graphic file (type jpg)
 <use whole.jpg>
-Package pdftex.def Info: whole.jpg  used on input line 812.
+Package pdftex.def Info: whole.jpg  used on input line 813.
 (pdftex.def)             Requested size: 398.33858pt x 112.8444pt.
-<fsthlf.jpg, id=232, 1925.1925pt x 1084.05pt>
+<fsthlf.jpg, id=756, 1925.1925pt x 1084.05pt>
 File: fsthlf.jpg Graphic file (type jpg)
 <use fsthlf.jpg>
-Package pdftex.def Info: fsthlf.jpg  used on input line 822.
+Package pdftex.def Info: fsthlf.jpg  used on input line 823.
 (pdftex.def)             Requested size: 252.6339pt x 142.26378pt.
  [19 <./whole.jpg>] [20 <./fsthlf.jpg>]
-<advice-ver3.jpg, id=263, 542.32613pt x 269.50688pt>
+<advice-ver3.jpg, id=785, 542.32613pt x 269.50688pt>
 File: advice-ver3.jpg Graphic file (type jpg)
 <use advice-ver3.jpg>
-Package pdftex.def Info: advice-ver3.jpg  used on input line 879.
+Package pdftex.def Info: advice-ver3.jpg  used on input line 880.
 (pdftex.def)             Requested size: 341.43306pt x 169.67508pt.
  [21
 
  <./advice-ver3.jpg>] [22]
-<backtofront1.jpg, id=281, 1301.86375pt x 502.87875pt>
+<backtofront1.jpg, id=799, 1301.86375pt x 502.87875pt>
 File: backtofront1.jpg Graphic file (type jpg)
 <use backtofront1.jpg>
-Package pdftex.def Info: backtofront1.jpg  used on input line 933.
+Package pdftex.def Info: backtofront1.jpg  used on input line 934.
 (pdftex.def)             Requested size: 398.33858pt x 153.86504pt.
-<backtofront2.jpg, id=282, 1316.92pt x 505.89pt>
+<backtofront2.jpg, id=800, 1316.92pt x 505.89pt>
 File: backtofront2.jpg Graphic file (type jpg)
 <use backtofront2.jpg>
-Package pdftex.def Info: backtofront2.jpg  used on input line 934.
+Package pdftex.def Info: backtofront2.jpg  used on input line 935.
 (pdftex.def)             Requested size: 398.33858pt x 153.01868pt.
-<backtofront3.jpg, id=283, 1300.86pt x 505.89pt>
+<backtofront3.jpg, id=801, 1300.86pt x 505.89pt>
 File: backtofront3.jpg Graphic file (type jpg)
 <use backtofront3.jpg>
-Package pdftex.def Info: backtofront3.jpg  used on input line 935.
+Package pdftex.def Info: backtofront3.jpg  used on input line 936.
 (pdftex.def)             Requested size: 398.33858pt x 154.9099pt.
  [23
 
  <./backtofront1.jpg> <./backtofront2.jpg> <./backtofront3.jpg>]
-<backtofront4.jpg, id=288, 1314.9125pt x 505.89pt>
+<backtofront4.jpg, id=806, 1314.9125pt x 505.89pt>
 File: backtofront4.jpg Graphic file (type jpg)
 <use backtofront4.jpg>
-Package pdftex.def Info: backtofront4.jpg  used on input line 938.
+Package pdftex.def Info: backtofront4.jpg  used on input line 939.
 (pdftex.def)             Requested size: 398.33858pt x 153.25026pt.
-<wdmd1.jpg, id=289, 1306.8825pt x 505.89pt>
+<wdmd1.jpg, id=807, 1306.8825pt x 505.89pt>
 File: wdmd1.jpg Graphic file (type jpg)
 <use wdmd1.jpg>
-Package pdftex.def Info: wdmd1.jpg  used on input line 942.
+Package pdftex.def Info: wdmd1.jpg  used on input line 943.
 (pdftex.def)             Requested size: 398.33858pt x 154.192pt.
-<wdmd2.jpg, id=290, 1314.9125pt x 505.89pt>
+<wdmd2.jpg, id=808, 1314.9125pt x 505.89pt>
 File: wdmd2.jpg Graphic file (type jpg)
 <use wdmd2.jpg>
-Package pdftex.def Info: wdmd2.jpg  used on input line 943.
+Package pdftex.def Info: wdmd2.jpg  used on input line 944.
 (pdftex.def)             Requested size: 398.33858pt x 153.25026pt.
-<wdmd3.jpg, id=291, 1304.875pt x 505.89pt>
+<wdmd3.jpg, id=809, 1304.875pt x 505.89pt>
 File: wdmd3.jpg Graphic file (type jpg)
 <use wdmd3.jpg>
-Package pdftex.def Info: wdmd3.jpg  used on input line 944.
+Package pdftex.def Info: wdmd3.jpg  used on input line 945.
 (pdftex.def)             Requested size: 398.33858pt x 154.4313pt.
  [24
 
  <./backtofront4.jpg> <./wdmd1.jpg> <./wdmd2.jpg> <./wdmd3.jpg>]
-<random1.jpg, id=296, 1305.87875pt x 505.89pt>
+<random1.jpg, id=814, 1305.87875pt x 505.89pt>
 File: random1.jpg Graphic file (type jpg)
 <use random1.jpg>
-Package pdftex.def Info: random1.jpg  used on input line 950.
+Package pdftex.def Info: random1.jpg  used on input line 951.
 (pdftex.def)             Requested size: 398.33858pt x 154.3078pt.
-<random2.jpg, id=297, 1305.87875pt x 505.89pt>
+<random2.jpg, id=815, 1305.87875pt x 505.89pt>
 File: random2.jpg Graphic file (type jpg)
 <use random2.jpg>
-Package pdftex.def Info: random2.jpg  used on input line 951.
+Package pdftex.def Info: random2.jpg  used on input line 952.
 (pdftex.def)             Requested size: 398.33858pt x 154.3078pt.
-<random3.jpg, id=298, 1310.8975pt x 505.89pt>
+<random3.jpg, id=816, 1310.8975pt x 505.89pt>
 File: random3.jpg Graphic file (type jpg)
 <use random3.jpg>
-Package pdftex.def Info: random3.jpg  used on input line 952.
+Package pdftex.def Info: random3.jpg  used on input line 953.
 (pdftex.def)             Requested size: 398.33858pt x 153.72113pt.
  [25
 
  <./random1.jpg> <./random2.jpg> <./random3.jpg>]
-<fw1.png, id=303, 592.614pt x 373.99725pt>
+<fw1.png, id=821, 592.614pt x 373.99725pt>
 File: fw1.png Graphic file (type png)
 <use fw1.png>
-Package pdftex.def Info: fw1.png  used on input line 958.
+Package pdftex.def Info: fw1.png  used on input line 959.
 (pdftex.def)             Requested size: 398.33858pt x 251.39291pt.
-<fw2.png, id=304, 590.80725pt x 370.38374pt>
+<fw2.png, id=822, 590.80725pt x 370.38374pt>
 File: fw2.png Graphic file (type png)
 <use fw2.png>
-Package pdftex.def Info: fw2.png  used on input line 959.
+Package pdftex.def Info: fw2.png  used on input line 960.
 (pdftex.def)             Requested size: 398.33858pt x 249.7326pt.
  [26
 
  <./fw1.png> <./fw2.png>]
-<fw3.png, id=311, 585.387pt x 366.168pt>
+<fw3.png, id=829, 585.387pt x 366.168pt>
 File: fw3.png Graphic file (type png)
 <use fw3.png>
-Package pdftex.def Info: fw3.png  used on input line 962.
+Package pdftex.def Info: fw3.png  used on input line 963.
 (pdftex.def)             Requested size: 398.33858pt x 249.16972pt.
-<fw4.png, id=312, 591.4095pt x 363.759pt>
+<fw4.png, id=830, 591.4095pt x 363.759pt>
 File: fw4.png Graphic file (type png)
 <use fw4.png>
-Package pdftex.def Info: fw4.png  used on input line 963.
+Package pdftex.def Info: fw4.png  used on input line 964.
 (pdftex.def)             Requested size: 398.33858pt x 245.00499pt.
  [27
 
  <./fw3.png> <./fw4.png>]
-<fw5.png, id=319, 581.7735pt x 364.9635pt>
+<fw5.png, id=837, 581.7735pt x 364.9635pt>
 File: fw5.png Graphic file (type png)
 <use fw5.png>
-Package pdftex.def Info: fw5.png  used on input line 966.
+Package pdftex.def Info: fw5.png  used on input line 967.
 (pdftex.def)             Requested size: 398.33858pt x 249.89824pt.
-<doubleaisle1.jpg, id=320, 1879.02pt x 722.7pt>
+<doubleaisle1.jpg, id=838, 1879.02pt x 722.7pt>
 File: doubleaisle1.jpg Graphic file (type jpg)
 <use doubleaisle1.jpg>
-Package pdftex.def Info: doubleaisle1.jpg  used on input line 970.
+Package pdftex.def Info: doubleaisle1.jpg  used on input line 971.
 (pdftex.def)             Requested size: 398.33858pt x 153.20505pt.
-<doubleaisle2.jpg, id=321, 1879.02pt x 722.7pt>
+<doubleaisle2.jpg, id=839, 1879.02pt x 722.7pt>
 File: doubleaisle2.jpg Graphic file (type jpg)
 <use doubleaisle2.jpg>
-Package pdftex.def Info: doubleaisle2.jpg  used on input line 971.
+Package pdftex.def Info: doubleaisle2.jpg  used on input line 972.
 (pdftex.def)             Requested size: 398.33858pt x 153.20505pt.
  [28
 
  <./fw5.png> <./doubleaisle1.jpg> <./doubleaisle2.jpg>]
-<doubleaisle3.jpg, id=328, 1879.02pt x 722.7pt>
+<doubleaisle3.jpg, id=846, 1879.02pt x 722.7pt>
 File: doubleaisle3.jpg Graphic file (type jpg)
 <use doubleaisle3.jpg>
-Package pdftex.def Info: doubleaisle3.jpg  used on input line 974.
+Package pdftex.def Info: doubleaisle3.jpg  used on input line 975.
 (pdftex.def)             Requested size: 398.33858pt x 153.20505pt.
-<doubleaisle4.jpg, id=329, 1879.02pt x 722.7pt>
+<doubleaisle4.jpg, id=847, 1879.02pt x 722.7pt>
 File: doubleaisle4.jpg Graphic file (type jpg)
 <use doubleaisle4.jpg>
-Package pdftex.def Info: doubleaisle4.jpg  used on input line 975.
+Package pdftex.def Info: doubleaisle4.jpg  used on input line 976.
 (pdftex.def)             Requested size: 398.33858pt x 153.20505pt.
  
 AED: lastpage setting LastPage
 [29
 
  <./doubleaisle3.jpg> <./doubleaisle4.jpg>] (22768821.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `22768821.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `22768821.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  EB109EE38A178BC7A3E8FFA198E91189;8192.
+Package rerunfilecheck Info: File `22768821.out' has not changed.
+(rerunfilecheck)             Checksum: EB109EE38A178BC7A3E8FFA198E91189;8192.
  ) 
 Here is how much of TeX's memory you used:
- 26784 strings out of 478593
- 497032 string characters out of 2844604
+ 27083 strings out of 478593
+ 502863 string characters out of 2844604
  1056989 words of memory out of 3000000
- 44278 multiletter control sequences out of 15000+600000
+ 44558 multiletter control sequences out of 15000+600000
  521723 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 135i,14n,140p,1026b,598s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 135i,14n,140p,1017b,613s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec.enc}{C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-t1.enc}<C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplb.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplr.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplri.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx2488.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on 22768821.pdf (32 pages, 16282767 bytes).
+Output written on 22768821.pdf (32 pages, 16380319 bytes).
 PDF statistics:
- 453 PDF objects out of 1000 (max. 8388607)
+ 972 PDF objects out of 1000 (max. 8388607)
  116 named destinations out of 1000 (max. 500000)
- 389 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 746 words of extra memory for PDF output out of 10000 (max. 10000000)
 
