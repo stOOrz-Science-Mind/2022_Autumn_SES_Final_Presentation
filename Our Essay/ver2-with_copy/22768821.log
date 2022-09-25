@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.4.26)  25 SEP 2022 13:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.4.26)  25 SEP 2022 13:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -751,24 +751,24 @@ Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
  (22768821.aux)
 \openout1 = `22768821.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
  (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count368
@@ -789,7 +789,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \c@lstlisting=\count374
-Package hyperref Info: Link coloring ON on input line 105.
+Package hyperref Info: Link coloring ON on input line 106.
  (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
@@ -799,9 +799,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count375
 )
-LaTeX Info: Redefining \ref on input line 105.
-LaTeX Info: Redefining \pageref on input line 105.
-LaTeX Info: Redefining \nameref on input line 105.
+LaTeX Info: Redefining \ref on input line 106.
+LaTeX Info: Redefining \pageref on input line 106.
+LaTeX Info: Redefining \nameref on input line 106.
  (22768821.out) (22768821.out)
 \@outlinefile=\write4
 \openout4 = `22768821.out'.
@@ -843,31 +843,27 @@ LaTeX Info: Redefining \nameref on input line 105.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 105.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 107.
+(lastpage)             ! on input line 106.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 108.
 (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 107.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 108.
  (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <./cover/cover-stoorz.pdf, id=206, 1517.67pt x 2146.4189pt>
 File: ./cover/cover-stoorz.pdf Graphic file (type pdf)
 <use ./cover/cover-stoorz.pdf>
-Package pdftex.def Info: ./cover/cover-stoorz.pdf  used on input line 108.
+Package pdftex.def Info: ./cover/cover-stoorz.pdf  used on input line 109.
 (pdftex.def)             Requested size: 597.51627pt x 845.05867pt.
  [1
 
 {C:/Users/Allan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./cover/cover-stoorz.pdf>]
-LaTeX Font Info:    Trying to load font information for T1+qpl on input line 110.
+LaTeX Font Info:    Trying to load font information for T1+qpl on input line 111.
  (C:\Users\Allan\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\t1qpl.fd
 File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
 )
-Underfull \hbox (badness 10000) in paragraph at lines 120--122
-
- []
-
 
 Package fancyhdr Warning: \headheight is too small (14.5pt): 
 (fancyhdr)                Make it at least 92.85541pt, for example:
@@ -1298,7 +1294,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  135i,14n,140p,1017b,613s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec.enc}{C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-t1.enc}<C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplb.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplr.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplri.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx2488.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on 22768821.pdf (32 pages, 16380319 bytes).
+Output written on 22768821.pdf (32 pages, 16380067 bytes).
 PDF statistics:
  972 PDF objects out of 1000 (max. 8388607)
  116 named destinations out of 1000 (max. 500000)
